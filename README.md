@@ -1,6 +1,5 @@
 # [Kata Seeds](http://kata-seeds.github.io): Java + JUnit
 [![Build Status](https://travis-ci.org/kata-seeds/java-junit-seed.svg?branch=master)](https://travis-ci.org/kata-seeds/java-junit-seed)
-[![Build Status](https://travis-ci.org/kata-seeds/java-junit-seed.svg?branch=master)](https://travis-ci.org/lolindrath/java-junit-seed)
 
 ## Getting Started
 
